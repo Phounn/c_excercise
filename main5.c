@@ -12,7 +12,4 @@ int main(){
         multiply = inp * i;
         printf("%d * %d = %d\n", inp, i, multiply);
     }
-
-
-    
 }
